@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SafeerSaqib
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Azure,Devops
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate with Githubs
 - 📫 How to reach me maliksafeer.saqib@gmail.com
 
